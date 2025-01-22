@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Fazle Rabbe Bipul  
 
-🎓 **Trainee @B-JET14** | **ICPC Asia West Finalist** | **DSA Instructor**  
+🎓 **Trainee @B-JET14** | **ICPC Asia West Finalist** | **2x ICPC Dhaka Regionals**  
 
 <p align="left">
   <a href="https://codeforces.com/profile/__FireBlade__">
