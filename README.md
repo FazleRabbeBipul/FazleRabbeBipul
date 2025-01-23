@@ -26,8 +26,7 @@ I am a Computer Science graduate with a passion for **competitive programming**,
 
 
 
-### Experience
----
+### Experiences
 
 #### **Trainee Engineer** – **B-JET (Bangladesh-Japan ICT Engineers' Training Program)**  *Jun 2024 - Dec 2024* 
 1. **Champion**, B-JET 14th Batch Programming Contest
@@ -47,7 +46,6 @@ I am a Computer Science graduate with a passion for **competitive programming**,
 **Static Site Generator** | Personal Project Link: _[https://github.com/FazleRabbeBipul//SSG)_  
 1. Static site generator built with **Python**, **Markdown**, and **HTML**
 
----
 
 ### Recent Blogs
 - [Completion of B-JET 14th Batch Training](https://www.linkedin.com/posts/fazle-rabbe-bipul_bjet-ictengineering-professionalgrowth-activity-7278447079323000834-YASX?utm_source=social_share_send&utm_medium=member_desktop_web)
