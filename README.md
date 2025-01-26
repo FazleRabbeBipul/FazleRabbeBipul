@@ -40,10 +40,10 @@ I am a Computer Science graduate with a passion for **competitive programming**,
 **SohojBazar** |  _Personal Project Link:_  _[https://github.com/FazleRabbeBipul/SohojBazar)_ 
 1. Online marketplace with **user authentication**, **product management**, and **real-time communication**
 
-**Asteroids Game** | _Personal Project Link:_  _[https://github.com/FazleRabbeBipul//AsteroidsGame)_  
+**Asteroids Game** | _Personal Project Link:_  _[https://github.com/FazleRabbeBipul/AsteroidsGame)_  
 1. 2D **space shooter game** with **collision detection** and **high score tracking**
 
-**Static Site Generator** | Personal Project Link: _[https://github.com/FazleRabbeBipul//SSG)_  
+**Static Site Generator** | Personal Project Link: _[https://github.com/FazleRabbeBipul/SSG-Static-Site-Generators)_  
 1. Static site generator built with **Python**, **Markdown**, and **HTML**
 
 
