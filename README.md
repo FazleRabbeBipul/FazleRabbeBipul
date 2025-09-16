@@ -27,6 +27,20 @@ I am a Computer Science graduate with a passion for **competitive programming**,
 
 
 ### Experiences
+ 
+#### **Software Engineer – BRAC IT**  *May 2025 – Present*
+1. Built and enhanced a ticketing system for BRAC clients, including:
+    - Absence-reliever logic with scheduling and retry handling  
+    - Round-robin ticket forwarding for fair load balancing  
+    - File-management module for secure document storage and retrieval  
+3. Designed and developed **microservice-based backend modules** using **EDA** and **CQRS** patterns  
+4. Implemented comprehensive unit and integration tests to ensure code quality and reliability  
+5. Worked with Java, Spring Boot, PostgreSQL, Docker, Redis, and RabbitMQ to deliver scalable, production-ready systems
+
+#### **Software Engineer (Intern) – BRAC IT**  *Feb 2025 – May 2025* 
+1. Built backend applications with Java, Spring Boot, and PostgreSQL  
+2. Implemented authentication & RBAC using Keycloak, JWT, and OAuth2  
+3. Developed monolithic and microservice-based Spring Cloud applications, including a DEMS, a Library Management System, and a Spring Boot Blog API, working with Redis, Kafka/RabbitMQ, and Docker
 
 #### **Trainee Engineer** – **B-JET (Bangladesh-Japan ICT Engineers' Training Program)**  *Jun 2024 - Dec 2024* 
 1. **Champion**, B-JET 14th Batch Programming Contest
