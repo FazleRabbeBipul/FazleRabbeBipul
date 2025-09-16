@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Fazle Rabbe Bipul  
 
 🎓 **SWE (Backend) @ BRAC IT | ACM-ICPC Asia West Continental Finalist '2021' | 2xICPC Dhaka Regionalist | Competitive Programmer**  
-
 <p align="left">
   <a href="https://codeforces.com/profile/__FireBlade__">
     <img src="https://img.shields.io/badge/Codeforces-Rating%201439-Cyan" alt="CodeChef rating" />
