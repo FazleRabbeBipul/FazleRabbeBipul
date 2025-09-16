@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Fazle Rabbe Bipul  
 
-🎓 **Trainee @B-JET14** | **ICPC Asia West Finalist** | **2x ICPC Dhaka Regionals**  
+🎓 **SWE (Backend) @ BRAC IT | ACM-ICPC Asia West Continental Finalist '2021' | 2xICPC Dhaka Regionalist | Competitive Programmer**  
 
 <p align="left">
   <a href="https://codeforces.com/profile/__FireBlade__">
