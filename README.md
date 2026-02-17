@@ -24,7 +24,7 @@ I am a Computer Science graduate with a passion for **competitive programming**,
 - **Ranked 30th**, ‘BUET Inter-University Programming Contest 2022’ *([Team: PSTU_Renaissance](https://toph.co/c/buet-inter-university-2022/standings))*  
 
 
-
+<!--
 ### Experiences
  
 #### **Software Engineer – BRAC IT**  *May 2025 – Present*
@@ -63,7 +63,7 @@ I am a Computer Science graduate with a passion for **competitive programming**,
 ### Recent Blogs
 - [Completion of B-JET 14th Batch Training](https://www.linkedin.com/posts/fazle-rabbe-bipul_bjet-ictengineering-professionalgrowth-activity-7278447079323000834-YASX?utm_source=social_share_send&utm_medium=member_desktop_web)
 - [Bellman–Ford algorithm / বেলম্যান ফোর্ড এলগরিদমঃ](https://medium.com/@rabbecse1677/bellman-ford-algorithm-বেলম্যান-ফোর্ড-এলগরিদমঃ-e9a0ba0427c8)
-  
+  -->
 ### Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/fazle-rabbe-bipul)  [![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=flat-square&logo=facebook)](https://facebook.com/fazlerabbe.bipul.7/)  [![Medium](https://img.shields.io/badge/Medium-Blog-black?style=flat-square&logo=medium)](https://medium.com/@rabbecse1677)  [![Email](https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail)](mailto:rabbecse1677@gmail.com)
 
