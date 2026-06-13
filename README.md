@@ -3,10 +3,10 @@
 🎓 **SWE (Backend) @ BRAC IT | ACM-ICPC Asia West Continental Finalist '2021' | 2xICPC Dhaka Regionalist | Competitive Programmer**  
 <p align="left">
   <a href="https://codeforces.com/profile/__FireBlade__">
-    <img src="https://img.shields.io/badge/Codeforces-Rating%201439-Cyan" alt="CodeChef rating" />
+    <img src="https://img.shields.io/badge/Codeforces-Cyan" alt="CodeChef rating" />
   </a>
   <a href="https://www.codechef.com/users/bipul_15">
-    <img src="https://img.shields.io/badge/CodeChef-Rating%201780-orange" alt="CodeChef rating" />
+    <img src="https://img.shields.io/badge/CodeChef-orange" alt="CodeChef rating" />
   </a>
   <a href="https://github.com/FazleRabbeBipul">
     <img src="https://komarev.com/ghpvc/?username=FazleRabbeBipul" alt="Profile Views" />
